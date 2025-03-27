@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b94ca7ccbe6a7d744bd97558eae2bc05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128745
+  packageName: Racing Touring Car Demo
+  packageVersion: 1.0
+  assetPath: Assets/Touring_Car_Pack_SA_Demo/Prefabs/Tires.prefab
+  uploadId: 276075

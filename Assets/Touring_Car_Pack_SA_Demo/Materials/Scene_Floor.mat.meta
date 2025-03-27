@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 074db3b4a954b0d41bddac5e985ea7b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128745
+  packageName: Racing Touring Car Demo
+  packageVersion: 1.0
+  assetPath: Assets/Touring_Car_Pack_SA_Demo/Materials/Scene_Floor.mat
+  uploadId: 276075

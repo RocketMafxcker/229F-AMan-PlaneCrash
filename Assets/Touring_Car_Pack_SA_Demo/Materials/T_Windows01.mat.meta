@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 283b912c6b0cbfc4095af409a2ac6a62
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128745
+  packageName: Racing Touring Car Demo
+  packageVersion: 1.0
+  assetPath: Assets/Touring_Car_Pack_SA_Demo/Materials/T_Windows01.mat
+  uploadId: 276075

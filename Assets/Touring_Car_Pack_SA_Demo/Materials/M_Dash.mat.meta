@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38e219eba15fd204dae4d89fcdf81c6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128745
+  packageName: Racing Touring Car Demo
+  packageVersion: 1.0
+  assetPath: Assets/Touring_Car_Pack_SA_Demo/Materials/M_Dash.mat
+  uploadId: 276075

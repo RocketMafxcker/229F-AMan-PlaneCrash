@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 199d49e6a2450c748a907c3d079fb26d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 128745
+  packageName: Racing Touring Car Demo
+  packageVersion: 1.0
+  assetPath: Assets/Touring_Car_Pack_SA_Demo/Materials/Seat.mat
+  uploadId: 276075
